@@ -4,7 +4,7 @@ Here’s a detailed `README.md` file for your chat web app built using the MERN 
 
 A modern, real-time chat application built using the MERN stack. This application features seamless real-time messaging, JWT-based authentication, online user status, and efficient global state management.
 
-## Features![Jaimin Picture](https://github.com/user-attachments/assets/00bda014-2b1e-4545-b24e-0b18564070b2)
+## Features
 
 
 - **Real-Time Messaging**: Communicate with other users instantly using Socket.io.
