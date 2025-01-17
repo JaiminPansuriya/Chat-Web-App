@@ -47,13 +47,13 @@ A modern, real-time chat application built using the MERN stack. This applicatio
 
 2. Install dependencies for the frontend:
    ```bash
-   cd client
+   cd frontend
    npm install
    ```
 
 3. Install dependencies for the backend:
    ```bash
-   cd ../server
+   cd ../backend
    npm install
    ```
 
@@ -71,13 +71,13 @@ A modern, real-time chat application built using the MERN stack. This applicatio
 
 1. Start the backend server:
    ```bash
-   cd server
+   cd backend
    npm run dev
    ```
 
 2. Start the frontend client:
    ```bash
-   cd ../client
+   cd ../frontend
    npm start
    ```
 
@@ -92,8 +92,8 @@ A modern, real-time chat application built using the MERN stack. This applicatio
 
 ```plaintext
 chat-web-app/
-├── client/       # React frontend
-├── server/       # Node.js backend
+├── frontend/       # React frontend
+├── backend/       # Node.js backend
 ├── .gitignore
 ├── README.md     # Project documentation
 └── LICENSE       # License information
