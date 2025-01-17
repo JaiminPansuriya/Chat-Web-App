@@ -93,11 +93,11 @@ A modern, real-time chat application built using the MERN stack. This applicatio
 
 ```plaintext
 chat-web-app/
-├── frontend/       # React frontend
-├── backend/       # Node.js backend
+├── frontend/     
+├── backend/      
 ├── .gitignore
-├── README.md     # Project documentation
-└── LICENSE       # License information
+├── README.md    
+└── package.json       
 ```
 
 ---
