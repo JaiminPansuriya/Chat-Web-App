@@ -138,6 +138,6 @@ Contributions are welcome! Please follow these steps:
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **GitHub**:  https://github.com/JaiminPansuriya
+- **Linkedin**: https://www.linkedin.com/in/jaiminpansuriya 
 - **Email**: jaiminpansuriya145@gmail.com
 ```
