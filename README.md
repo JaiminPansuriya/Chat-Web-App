@@ -123,6 +123,15 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
+## Screenshots
+![UI (1)](https://github.com/user-attachments/assets/cd10c7a2-0a17-4614-96d8-4faa4db7db20)
+![Theme (1)](https://github.com/user-attachments/assets/60bd13f6-0e48-4174-99d3-b8adaf892d25)
+![ShowOnlineOnly (1)](https://github.com/user-attachments/assets/76d5eac0-8a9a-4b87-9d7b-ebfa2609effa)
+![Profile (1)](https://github.com/user-attachments/assets/a7c88441-72aa-4538-93ea-75213b8a0527)
+![ChatUI (1)](https://github.com/user-attachments/assets/67c8b205-373c-4f85-934a-9b362195fbc8)
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
